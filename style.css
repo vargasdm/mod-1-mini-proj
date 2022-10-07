@@ -1,0 +1,11 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+header {
+    position: fixed;
+    left: 50%;
+    background-color: aqua;
+    display: block;
+}
